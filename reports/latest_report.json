@@ -1,0 +1,11 @@
+{
+    "total_students": 7,
+    "average_age": 17.71,
+    "students_per_grade": {
+        "A": 3,
+        "d": 2,
+        "B": 1,
+        "C": 1
+    },
+    "ai_insights": "An error occurred while generating AI insights. Please check the backend console for details."
+}
